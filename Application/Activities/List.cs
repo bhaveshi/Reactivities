@@ -6,7 +6,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistance;
 
-
+ 
 namespace Application.Activities
 {
     public class List
